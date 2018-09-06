@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+<properties>
+            
+    <entry key="server">localhost</entry>
+    
+    <entry key="database">placeholder</entry>    
+    
+    <entry key="user"></entry>
+    
+    <entry key="password"></entry>  
+    
+    <entry key="puerto">5432</entry>    
+
+</properties>

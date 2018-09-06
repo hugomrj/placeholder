@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<root>
+    
+    <table 
+        name="public.users">      
+        
+            <id name="id"/>            
+            <column name="name"/>
+            <column name="username"/>
+            <column name="email"/>
+            <column name="address_street"/>
+            <column name="address_suite"/>
+            <column name="address_city"/>
+            <column name="address_zipcode"/>
+            <column name="address_geo_lat"/>
+            <column name="adress_geo_lng"/>
+            <column name="phone"/>
+            <column name="website"/>
+            <column name="company_name"/>
+            <column name="company_catchphrase"/>
+            <column name="company_bs"/>
+
+    </table>
+    
+</root>
+

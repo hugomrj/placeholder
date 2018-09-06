@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<root>
+    
+    <table 
+        name="public.comments">      
+        
+            <id name="id"/>            
+            <column name="postid" foreign = "Post"/> 
+            <column name="name"/>
+            <column name="email"/>
+            <column name="body"/>
+
+    </table>
+    
+</root>
